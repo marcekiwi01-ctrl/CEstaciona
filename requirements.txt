@@ -1,0 +1,13 @@
+# CEstaciona - Requisitos de la Interfaz Gráfica
+# Python 3.8 o superior
+
+# Librería para peticiones HTTP (obtener tipo de cambio)
+requests==2.31.0
+
+# Tkinter viene incluido con Python estándar en Windows y macOS
+# En Linux, instalar con: sudo apt-get install python3-tk
+
+# Dependencias opcionales para desarrollo
+# pytest==7.4.3  # Para testing
+# black==23.12.0  # Para formateo de código
+# pylint==3.0.3  # Para linting
